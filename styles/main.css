@@ -1,0 +1,57 @@
+html,
+body {
+  width: 100%;
+  max-width: 100vw;
+  max-height: 100vh;
+  overflow: hidden;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 3% 5% 0% 5%;
+}
+
+header {
+  margin-bottom: 3%;
+  font-family: "M PLUS Code Latin", sans-serif;
+}
+
+main {
+  display: flex;
+  flex: 1;
+  margin-top: 3%;
+}
+
+.headerText {
+  font-weight: 600;
+  font-size: 2em;
+}
+
+.errorTextFourOhFour {
+  display: flex;
+  flex-direction: column;
+}
+
+.badNewsHeading {
+  margin-bottom: 0%;
+  font-size: 5em;
+  font-weight: 600;
+}
+
+.badNewsPara {
+  font-weight: 500;
+  font-size: 2em;
+}
+
+.returnHomeButton {
+  font-size: 1.5em;
+  background-color: black;
+  color: white;
+}
+
+.footerCredits {
+  font-size: 1.2em;
+  opacity: 50%;
+  text-align: center;
+}
