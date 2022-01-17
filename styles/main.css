@@ -1,57 +1,64 @@
 html,
 body {
-  width: 100%;
-  max-width: 100vw;
-  max-height: 100vh;
-  overflow: hidden;
+  margin: 0;
 }
 
 body {
   display: flex;
   flex-direction: column;
-  margin: 3% 5% 0% 5%;
 }
 
-header {
-  margin-bottom: 3%;
+.header-wrapper {
   font-family: "M PLUS Code Latin", sans-serif;
-}
-
-main {
-  display: flex;
-  flex: 1;
-  margin-top: 3%;
-}
-
-.headerText {
   font-weight: 600;
   font-size: 2em;
+  position: absolute;
+  top: 4rem;
+  left: 5rem;
 }
 
-.errorTextFourOhFour {
+.main-wrapper {
+  display: flex;
+  flex: 1;
+  position: absolute;
+  top: 18rem;
+  left: 15rem;
+}
+
+.scarecrow-image {
+  width: 50rem;
+  height: 50rem;
+}
+
+.main-wrapper-right {
   display: flex;
   flex-direction: column;
+  padding-top: 9rem;
+  padding-left: 14rem;
 }
 
-.badNewsHeading {
+.bad-news-heading {
   margin-bottom: 0%;
   font-size: 5em;
-  font-weight: 600;
+  font-family: "Carter One", cursive;
+  font-weight: 400;
 }
 
-.badNewsPara {
+.bad-news-para {
   font-weight: 500;
   font-size: 2em;
 }
 
-.returnHomeButton {
+.return-home-button {
   font-size: 1.5em;
   background-color: black;
   color: white;
 }
 
-.footerCredits {
+.footer-wrapper {
   font-size: 1.2em;
-  opacity: 50%;
-  text-align: center;
+  opacity: 60%;
+  position: absolute;
+  top: 80rem;
+  left: 70rem;
 }
