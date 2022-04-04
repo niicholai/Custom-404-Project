@@ -38,13 +38,13 @@
 
 ![screenshot](https://i.imgur.com/x3wrO3I.png)
 
-- Where can I see your demo?
+- <b>Where can I see your demo?</b><br>
   You can see a working demo at the following: <a href="https://custom-404-project.onrender.com/">Demo</a>
-- What was your experience?
+- <b>What was your experience?</b><br>
   This was my first project that required so many lines of CSS coding. Four hundred and fifty seven lines later, here we are. It was a struggle, however it was also rewarded to see it all come together in the end.
-- What have you learned/improved?
+- <b>What have you learned/improved?</b><br>
   Creating a responsive website takes time. I knew going in the challenge called for a mobile design as well, however, I wanted to go a step further and work it as though it was my own page or a page for a client. After making the page responsive from 1920x1080px down to 380x420 I was happy. Now I feel more confident about creating responsive websites in the future.
-- Your wisdom?
+- <b>Your wisdom?</b><br>
   Take your time. Even though this challenge only required HTML and CSS, it took me several hours to do. Several of my friends told me it would only take a professional developer 5-15 minutes, yet they also made it clear I needed to take my time because I'm new and learning. I struggled taking my time because I knew it should be so simple and easy to do, but I pushed through, struggled along, and now I feel more confident in my skills. So take your time, humble yourself, and accept that you're always learning and doing the best you can with what you have and what you know.
 
 ### Built With
